@@ -1,0 +1,55 @@
+body{
+    margin-top: 15px;
+    background:url(bo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 150%; 
+}
+#ac{
+    
+    float: left;
+    color: rgb(254, 254, 254) ;
+    font-size: 66px;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Yatra One,Arial, Helvetica, sans-serif;
+}
+
+#im{
+   float: right; 
+    margin-top: 150px;
+    border-radius: 20px;
+}
+#ip{
+    margin-top: 250px;
+    margin-left: 50px;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+    font-family: Merienda,'Courier New', Courier, monospace;
+}
+#btn{
+        position: absolute;
+        background-color:#818282;
+        color: #fff;
+        border:none;
+        font-size: 16px; 
+        border-radius:10px; 
+        padding:18px;
+        min-height:40px; 
+        min-width: 140px;
+        font-family:serif;
+        margin-left: 50px;
+      }
+      #btn:focus {
+        outline-color: transparent;
+        outline-style:solid;
+        box-shadow: 0 0 0 4px  purple ;
+        transition: 0.7s;
+    }
+    #btn:hover{
+        font-weight:bolder;
+        font-size: 20px;
+    }
+
+
+

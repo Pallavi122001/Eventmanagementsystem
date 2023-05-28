@@ -1,0 +1,31 @@
+body{
+    background: linear-gradient(-225deg, #34b5d5 0%, #B9B6E5 100%);
+    text-align: center;
+    margin-top: 200px;
+}
+input{
+    padding: 15px;
+    padding-right: 80px;
+}
+#btn1{
+    background-color:#580ef7;
+    color: #fff;
+    border:none;
+    font-size: 16px; 
+    border-radius:10px; 
+    padding:18px;
+    min-height:40px; 
+    min-width: 140px;
+    font-family:serif;
+  }
+  #btn1:focus {
+    outline-color: transparent;
+    outline-style:solid;
+    box-shadow: 0 0 0 4px  rgb(10, 10, 10) ;
+    transition: 0.7s;
+}
+#btn1:hover{
+    font-weight:bolder;
+    font-size: 20px;
+}
+

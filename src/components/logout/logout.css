@@ -1,0 +1,13 @@
+.logout{
+    align-items: center;
+    background-color: rgb(6, 48, 88);
+    font-size:30px ;
+    margin-left: 600px;
+    margin-top: 350px;
+    cursor: pointer;
+    padding:20px;
+    font-family: cursive;
+    color:aliceblue;
+    text-transform: uppercase;
+    text-decoration: none;
+}

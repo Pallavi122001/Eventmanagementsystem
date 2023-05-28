@@ -1,0 +1,24 @@
+.small-contaniner{
+    padding: 20px;
+    text-align: center;
+    background-color: #00aaff;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-radius: 25px;
+}
+.small-contaniner h1{
+    text-align: center;
+    color:blue;
+}
+.small-contaniner input{
+    padding: 10px;
+    font-size:15px;
+    margin-bottom: 20px;
+}
+.small-contaniner label{
+    font-size: 25px;
+  font-weight: bold;
+padding-right:25px;
+color:black;
+}

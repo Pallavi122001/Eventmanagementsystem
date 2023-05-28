@@ -1,0 +1,37 @@
+.studentheader{
+    font-family: "Goudy Bookletter 1911", sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(7, 59, 91);
+    padding: 10px;
+    margin-top: 0%;
+    color:aliceblue;
+}
+.studentheader:hover{
+    background-color:#008fb3;
+    color:black;
+}
+.round-button{
+    border:none;
+    padding:20px;
+    background-color:#008fb3;
+    color:aliceblue;
+    border-radius:5px;
+    margin-left: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+.round-button:hover{
+    background-color: #000;
+}
+a{
+    text-decoration: none;
+}
+marquee{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 200px;
+    color: red;
+}

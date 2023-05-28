@@ -1,0 +1,28 @@
+.smallcontainer{
+    padding: 20px;
+    text-align: center;
+    background-color: #00aaff;
+    margin-top: 20px;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size:15px;
+    border-radius: 25px;
+}
+.smallcontainer h1{
+    color:blue;
+}
+.smallcontainer input{
+    padding: 10px;
+    margin-bottom: 20px;
+    font-size:15px;
+}
+.smallcontainer label{
+  font-size: 25px;
+  font-weight: bold;
+  color:black;
+}
+
+.add-cancel{
+    font-size: 20px;
+    padding: 20px;
+}
